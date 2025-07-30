@@ -1,12 +1,3 @@
----
-name: Pull request Template
-about: Describe this issue template's purpose here.
-title: ''
-labels: ''
-assignees: MaSeungHyun
-
----
-
 ## 📝작업 내용
 
 > 이번 PR에서 작업한 내용을 간략히 설명해주세요(이미지 첨부 가능)
